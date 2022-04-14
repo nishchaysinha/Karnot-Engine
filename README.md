@@ -1,2 +1,3 @@
 # Karnot-Engine
-An open source Vulkan based game engine.
+An open source Vulkan based game engine
+using GLM, GLFW and Vulkan.
